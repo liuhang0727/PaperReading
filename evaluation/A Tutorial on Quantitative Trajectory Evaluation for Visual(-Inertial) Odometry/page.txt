@@ -1,0 +1,2 @@
+http://rpg.ifi.uzh.ch/research_vo.html
+https://github.com/uzh-rpg/rpg_trajectory_evaluation
